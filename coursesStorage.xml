@@ -1,0 +1,56 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="For foreign language learners, it’s hard to remember new words, which is exactly what flashcards are for. Typically, flashcards show a hint (a task or a picture) on one side and the right answer on the other. Flashcards can be used to remember any sort of data, so if you want to create something useful and enhance your programming skills, this project is just right.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/44&lt;/a&gt;" />
+        <option name="humanLanguage" value="inglés" />
+        <option name="location" value="$USER_HOME$/IdeaProjects/Flashcards" />
+        <option name="name" value="Flashcards" />
+        <option name="programmingLanguage" value="JAVA" />
+        <option name="programmingLanguageVersion" value="11" />
+        <option name="type" value="Hyperskill" />
+      </course>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="What can be better than a cup of coffee during a break? A coffee that you don’t have to make yourself. It’s enough to press a couple of buttons on the machine and you get a cup of energy; but first, we should teach the machine how to do it. In this project, you will work on programming a coffee machine simulator. The machine works with typical products: coffee, milk, sugar, and plastic cups; if it runs out of something, it shows a notification. You can get three types of coffee: espresso, cappuccino and latte. Since nothing’s for free, it also collects the money.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/33&lt;/a&gt;" />
+        <option name="humanLanguage" value="inglés" />
+        <option name="location" value="$USER_HOME$/IdeaProjects/Coffee Machine" />
+        <option name="name" value="Coffee Machine" />
+        <option name="programmingLanguage" value="JAVA" />
+        <option name="programmingLanguageVersion" value="11" />
+        <option name="type" value="Hyperskill" />
+      </course>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Privacy is an important matter is the realm of the Internet. When sending a message, you want to be sure that no-one but the addressee with the key can read it. The entirety of the modern Web is encrypted - take https for example! Don’t stay behind: hop on the encryption/decryption train and learn the essential basics while implementing this simple project.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/46&lt;/a&gt;" />
+        <option name="humanLanguage" value="inglés" />
+        <option name="location" value="$USER_HOME$/IdeaProjects/Encryption-Decryption" />
+        <option name="name" value="Encryption-Decryption" />
+        <option name="programmingLanguage" value="JAVA" />
+        <option name="programmingLanguageVersion" value="11" />
+        <option name="type" value="Hyperskill" />
+      </course>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/48&lt;/a&gt;" />
+        <option name="humanLanguage" value="inglés" />
+        <option name="location" value="$USER_HOME$/IdeaProjects/Tic-Tac-Toe1" />
+        <option name="name" value="Tic-Tac-Toe" />
+        <option name="programmingLanguage" value="JAVA" />
+        <option name="programmingLanguageVersion" value="11" />
+        <option name="type" value="Hyperskill" />
+      </course>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/48&lt;/a&gt;" />
+        <option name="humanLanguage" value="inglés" />
+        <option name="location" value="$USER_HOME$/IdeaProjects/Tic-Tac-Toe2" />
+        <option name="name" value="Tic-Tac-Toe" />
+        <option name="programmingLanguage" value="JAVA" />
+        <option name="programmingLanguageVersion" value="11" />
+        <option name="type" value="Hyperskill" />
+      </course>
+    </courses>
+  </component>
+</application>
