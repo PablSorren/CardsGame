@@ -51,6 +51,19 @@
         <option name="programmingLanguageVersion" value="11" />
         <option name="type" value="Hyperskill" />
       </course>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Everyone has their own personal reading history, and as we grow up, we are able to comprehend more and more complicated texts. But how do you estimate the level of difficulty of a given text, and how do you teach a computer to do that? In this project, you will find it out: write a program that determines how difficult the text is and for which age it is most suitable.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/39&lt;/a&gt;" />
+        <option name="humanLanguage" value="inglés" />
+        <option name="id" value="39" />
+        <option name="location" value="$USER_HOME$/IdeaProjects/Readability Score" />
+        <option name="name" value="Readability Score" />
+        <option name="programmingLanguage" value="JAVA" />
+        <option name="programmingLanguageVersion" value="11" />
+        <option name="tasksSolved" value="2" />
+        <option name="tasksTotal" value="4" />
+        <option name="type" value="Hyperskill" />
+      </course>
     </courses>
   </component>
 </application>
