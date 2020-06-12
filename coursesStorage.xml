@@ -64,6 +64,19 @@
         <option name="tasksTotal" value="4" />
         <option name="type" value="Hyperskill" />
       </course>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Get firsthand experience of creating a small inhabited universe and observe the many patterns in which this “life” can evolve. Generation by generation, watch the cells come and go, reacting to their environment, perishing from loneliness or finding comfort in company. In this project, you will write a simple “Game of Life”, a classic toy for programmers to entertain and educate themselves. Careful: might be hypnotizing!&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/54&lt;/a&gt;" />
+        <option name="humanLanguage" value="inglés" />
+        <option name="id" value="54" />
+        <option name="location" value="$USER_HOME$/IdeaProjects/Game of Life" />
+        <option name="name" value="Game of Life" />
+        <option name="programmingLanguage" value="JAVA" />
+        <option name="programmingLanguageVersion" value="11" />
+        <option name="tasksSolved" value="1" />
+        <option name="tasksTotal" value="5" />
+        <option name="type" value="Hyperskill" />
+      </course>
     </courses>
   </component>
 </application>
