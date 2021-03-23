@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Pruebas" type="JAVA" />
       <mapping pattern="main" type="JAVA" />
+      <mapping ext="pom" type="XML" />
     </extensionMap>
   </component>
 </application>
