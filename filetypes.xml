@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="prueba" type="AUTO_DETECTED" />
+      <mapping pattern="CakeTest" type="AUTO_DETECTED" />
       <mapping pattern="Recomendador" type="AUTO_DETECTED" />
       <mapping pattern="Pruebas" type="JAVA" />
       <mapping pattern="main" type="JAVA" />
